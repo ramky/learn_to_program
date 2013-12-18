@@ -12,7 +12,7 @@ chapter3_number = 3
 chapter3_topic  = 'Letters'
 chapter3_page   = 13
 
-chapter4_number = 3
+chapter4_number = 4
 chapter4_topic  = 'Functions'
 chapter4_page   = 129
 
